@@ -1,0 +1,17 @@
+body{
+  font-style: italic;
+  align-items: center;
+  padding-left: 35%;
+  
+}
+h1{
+  color: black;
+  background-color: bisque;
+
+}
+p{
+  font-size: 700%;
+  color: blue;
+ 
+  
+}

@@ -1,0 +1,10 @@
+import Greeting from './greeting'
+function Gallery(){
+    return(
+        <>
+        <Greeting/>
+ <img src="https://i.pinimg.com/736x/e7/73/b8/e773b8a36e0a125f0c94667d8eeac085.jpg"/>
+        </>
+    )
+}
+export default Gallery;

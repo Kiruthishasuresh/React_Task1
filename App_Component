@@ -1,0 +1,15 @@
+import React from 'react'
+import './App.css'
+import Greeting from './greeting'
+import Gallery from './Gallery'
+import Profile from './Profile'
+function App() {
+  return (
+    <>
+      <Profile/>
+      <Greeting/>
+      <Gallery/>
+    </>
+  );
+}
+export default App;
